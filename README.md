@@ -1,6 +1,6 @@
 
 # Login Auth (MERN)
-![ Login Auth](https://github.com/jinwei-ang/MERN-Login-Auth-App/blob/main/Login-Auth-MERN-App-big.jpg)
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
