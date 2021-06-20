@@ -31,7 +31,7 @@ npm run dev
 // Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
 
-## Potential Development Ideas
+## Future Development Ideas
 - Dashboard with opening banking REST API
 
 ## Credit is where credit due
