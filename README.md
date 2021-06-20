@@ -18,7 +18,6 @@ To run this project, you will need to add the following environment variables to
 
 ```javascript
 LOCAL_MONGO_URI="MONGO_URI"
-};
 ```
 ## Quick Start
 
